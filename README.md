@@ -1,28 +1,31 @@
-# 🏥 Hospital Management System – SQL Project
+##🏥Hospital Management System – SQL Project
 
-## 📌 Project Description
+##  Project Description
 This project is a MySQL-based Hospital Management System designed to manage doctors, patients, and appointments efficiently.  
 It demonstrates core and advanced SQL concepts used in real-world database systems.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - MySQL 8.0
 - MySQL Workbench
 - SQL
 
 ---
 
-## 📂 Database Structure
+##  Database Structure
 
 ### Tables
 - **doctor_details**
 - **patient_details**
 - **appointments**
 
+##  Database Schema
+![Database Schema](schemas.png)
+
 ---
 
-## 🔑 Key Features
+##  Key Features
 - Relational database design with Primary & Foreign Keys
 - Constraints: NOT NULL, UNIQUE, CHECK, DEFAULT
 - CRUD operations
@@ -36,7 +39,7 @@ It demonstrates core and advanced SQL concepts used in real-world database syste
 
 ---
 
-## 📊 SQL Concepts Covered
+##  SQL Concepts Covered
 - SELECT, INSERT, UPDATE, DELETE
 - WHERE, LIKE, BETWEEN, IN
 - GROUP BY, HAVING
@@ -48,7 +51,7 @@ It demonstrates core and advanced SQL concepts used in real-world database syste
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 1. Open MySQL Workbench
 2. Create a new SQL tab
 3. Copy and paste `Hospital_project.sql`
