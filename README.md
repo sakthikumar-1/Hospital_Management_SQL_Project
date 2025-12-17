@@ -21,7 +21,7 @@ It demonstrates core and advanced SQL concepts used in real-world database syste
 - **appointments**
 
 ##  Database Schema
-![Database Schema](schemas.png)
+![Database Schema](Schemas.png)
 
 ---
 
