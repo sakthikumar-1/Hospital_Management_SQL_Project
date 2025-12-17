@@ -1,4 +1,4 @@
-##🏥Hospital Management System – SQL Project
+# 🏥 Hospital Management System – SQL Project
 
 ##  Project Description
 This project is a MySQL-based Hospital Management System designed to manage doctors, patients, and appointments efficiently.  
